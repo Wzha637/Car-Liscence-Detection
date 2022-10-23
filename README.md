@@ -8,6 +8,3 @@ This is a software that processes images of cars in order to detect their licens
 
 ## Requirements
 1. matplotlib
-
-## Example Image
-![img](2022_S1_CS373_AssignmentSkeleton\\output_images\numberplate1_output.png)
