@@ -10,3 +10,4 @@ This is a software that processes images of cars in order to detect their licens
 1. matplotlib
 
 ## Example Image
+![](file\output_images\numberplate1_output.png)
