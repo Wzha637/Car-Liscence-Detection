@@ -6,6 +6,9 @@ This is a software that processes images of cars to detect their license plates 
 ## Technologies
 1. Python
 
+## Run
+Open "CS373LicensePlateDetection.py" and run.
+
 ## Requirements
 1. matplotlib
 
